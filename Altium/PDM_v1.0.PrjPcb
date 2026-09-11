@@ -152,23 +152,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KSYUIZBJ
 
 [Document7]
-DocumentPath=SCH\Power_Line_24V.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=500
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EUBHLNZM
-
-[Document8]
 DocumentPath=SCH\Protection_Stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,6 +167,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJGIVSRD
+
+[Document8]
+DocumentPath=SCH\INA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUBHLNZM
 
 [ProjectVariant1]
 UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
