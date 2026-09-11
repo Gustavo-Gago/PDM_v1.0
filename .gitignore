@@ -1,0 +1,23 @@
+# Altium generated folders 
+History/
+__Previews/
+Project Outputs for*/
+Generated/
+
+# Altium history files (IMPORTANTE)
+*History*
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+*.rep
+*.err
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Altium autosave
+*.Autosave
+*.PcbDocPreview
