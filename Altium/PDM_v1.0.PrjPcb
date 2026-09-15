@@ -632,24 +632,20 @@ DocumentPath=OUT\ASSY\Desarrollo\STENCIL\pickeball-v0.0-Desarrollo-Stencil.REP
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
+Name=Author
+Value=eUSRacing
 
 [Parameter2]
-Name=Revision
-Value=1.0
+Name=Date
+Value=14/09/2026
 
 [Parameter3]
 Name=Project
 Value=PDM
 
 [Parameter4]
-Name=Date
-Value=14/09/2026
-
-[Parameter5]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=1.0
 
 [DiffPairSuffix1]
 Positive=_H
