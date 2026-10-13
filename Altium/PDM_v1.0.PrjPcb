@@ -140,8 +140,7 @@ UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=IC100|UniqueId=\INAZKOLS|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
