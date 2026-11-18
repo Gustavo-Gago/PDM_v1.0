@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DHCXWBVU
 
 [Document8]
-DocumentPath=SCH\PSU_MOSFET_LEDS.SchDoc
+DocumentPath=SCH\Optoisolators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
