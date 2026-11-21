@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Desarrollo
 
 [Preferences]
 PrefsVaultGUID=
@@ -171,11 +172,11 @@ DocumentUniqueId=DHCXWBVU
 [Document8]
 DocumentPath=SCH\Optoisolators.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=600
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -188,11 +189,11 @@ DocumentUniqueId=BLWKVPVP
 [Document9]
 DocumentPath=SCH\Connectors.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=700
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -205,11 +206,11 @@ DocumentUniqueId=RDVMLMRI
 [Document10]
 DocumentPath=SCH\PSU.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=800
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -224,7 +225,9 @@ UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=R?|UniqueId=\CWFLZBMC\RWLZYDRG|Kind=1|AlternatePart=
+Variation2=Designator=R?|UniqueId=\CWFLZBMC\WGZMXKBE|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
